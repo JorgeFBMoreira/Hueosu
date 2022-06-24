@@ -12,9 +12,5 @@ const client = new Client({
         'GUILD_PRESENCES',
     ]
 })
-/*
-client.once('ready', () => {
-    console.log(`Bot ${client.user.username} successfully logged in.\n`)
-})*/
 
 client.login(process.env.DISCORD_BOT_TOKEN)

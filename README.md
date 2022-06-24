@@ -7,11 +7,12 @@ This bot is currently under development.
 ## 📑 TECHNOLOGIES
 
 This project was made with the following technologies:
-- JavaScript (node.js)
+- JavaScript (NodeJS)
 
 Libraries:
 - Dotenv
 - Discord.js
+- Axios
 
 
 
@@ -27,10 +28,10 @@ This project is a discord bot dedicated to Osu!
 - Clone this repository:
 $ git clone https://github.com/JorgeFBMoreira/Hueosu
 
-- Create a .env file and replace all values from .env_example
+- Create a .env file and replace all values from .env_example with all the information you need.
+-> Note: To get your "osu api token", at this current moment, you'll need to do a request by yourself. You can use "Insomnia" to do it.
 
-- Start your bot with:
-node .
+- Start your bot with: node .
 ```
 
 

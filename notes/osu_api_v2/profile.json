@@ -1,0 +1,897 @@
+{
+	"avatar_url": "https:\/\/a.ppy.sh\/12599585?1645893180.jpeg",
+	"country_code": "PT",
+	"default_group": "default",
+	"id": 12599585,
+	"is_active": true,
+	"is_bot": false,
+	"is_deleted": false,
+	"is_online": true,
+	"is_supporter": false,
+	"last_visit": "2022-06-24T16:26:48+00:00",
+	"pm_friends_only": false,
+	"profile_colour": null,
+	"username": "yHuesos_",
+	"cover_url": "https:\/\/assets.ppy.sh\/user-profile-covers\/12599585\/2a3422e2c6a490ac4f22cac51bd4019d6ecdb24ad9e0e207cdefb4e7b61dcaf2.jpeg",
+	"discord": "Huesos#0074",
+	"has_supported": true,
+	"interests": null,
+	"join_date": "2018-07-05T19:25:53+00:00",
+	"kudosu": {
+		"total": 0,
+		"available": 0
+	},
+	"location": "Portugal",
+	"max_blocks": 50,
+	"max_friends": 250,
+	"occupation": null,
+	"playmode": "osu",
+	"playstyle": [
+		"mouse",
+		"keyboard",
+		"tablet"
+	],
+	"post_count": 1,
+	"profile_order": [
+		"me",
+		"recent_activity",
+		"top_ranks",
+		"historical",
+		"medals",
+		"kudosu",
+		"beatmaps"
+	],
+	"title": null,
+	"title_url": null,
+	"twitter": null,
+	"website": null,
+	"country": {
+		"code": "PT",
+		"name": "Portugal"
+	},
+	"cover": {
+		"custom_url": "https:\/\/assets.ppy.sh\/user-profile-covers\/12599585\/2a3422e2c6a490ac4f22cac51bd4019d6ecdb24ad9e0e207cdefb4e7b61dcaf2.jpeg",
+		"url": "https:\/\/assets.ppy.sh\/user-profile-covers\/12599585\/2a3422e2c6a490ac4f22cac51bd4019d6ecdb24ad9e0e207cdefb4e7b61dcaf2.jpeg",
+		"id": null
+	},
+	"account_history": [],
+	"active_tournament_banner": null,
+	"badges": [],
+	"beatmap_playcounts_count": 8049,
+	"comments_count": 1,
+	"favourite_beatmapset_count": 0,
+	"follower_count": 30,
+	"graveyard_beatmapset_count": 0,
+	"groups": [],
+	"guest_beatmapset_count": 0,
+	"loved_beatmapset_count": 0,
+	"mapping_follower_count": 0,
+	"monthly_playcounts": [
+		{
+			"start_date": "2018-07-01",
+			"count": 851
+		},
+		{
+			"start_date": "2018-08-01",
+			"count": 668
+		},
+		{
+			"start_date": "2018-09-01",
+			"count": 378
+		},
+		{
+			"start_date": "2018-10-01",
+			"count": 72
+		},
+		{
+			"start_date": "2018-11-01",
+			"count": 3556
+		},
+		{
+			"start_date": "2018-12-01",
+			"count": 1742
+		},
+		{
+			"start_date": "2019-01-01",
+			"count": 1540
+		},
+		{
+			"start_date": "2019-02-01",
+			"count": 2658
+		},
+		{
+			"start_date": "2019-03-01",
+			"count": 2431
+		},
+		{
+			"start_date": "2019-04-01",
+			"count": 1329
+		},
+		{
+			"start_date": "2019-05-01",
+			"count": 2636
+		},
+		{
+			"start_date": "2019-06-01",
+			"count": 2163
+		},
+		{
+			"start_date": "2019-07-01",
+			"count": 3606
+		},
+		{
+			"start_date": "2019-08-01",
+			"count": 2945
+		},
+		{
+			"start_date": "2019-09-01",
+			"count": 664
+		},
+		{
+			"start_date": "2019-12-01",
+			"count": 1854
+		},
+		{
+			"start_date": "2020-01-01",
+			"count": 1384
+		},
+		{
+			"start_date": "2020-02-01",
+			"count": 1798
+		},
+		{
+			"start_date": "2020-03-01",
+			"count": 3217
+		},
+		{
+			"start_date": "2020-04-01",
+			"count": 2218
+		},
+		{
+			"start_date": "2020-05-01",
+			"count": 1632
+		},
+		{
+			"start_date": "2020-06-01",
+			"count": 1519
+		},
+		{
+			"start_date": "2020-07-01",
+			"count": 1153
+		},
+		{
+			"start_date": "2020-08-01",
+			"count": 416
+		},
+		{
+			"start_date": "2020-09-01",
+			"count": 549
+		},
+		{
+			"start_date": "2020-10-01",
+			"count": 683
+		},
+		{
+			"start_date": "2020-11-01",
+			"count": 708
+		},
+		{
+			"start_date": "2020-12-01",
+			"count": 486
+		},
+		{
+			"start_date": "2021-01-01",
+			"count": 1026
+		},
+		{
+			"start_date": "2021-02-01",
+			"count": 813
+		},
+		{
+			"start_date": "2021-03-01",
+			"count": 646
+		},
+		{
+			"start_date": "2021-04-01",
+			"count": 647
+		},
+		{
+			"start_date": "2021-05-01",
+			"count": 267
+		},
+		{
+			"start_date": "2021-06-01",
+			"count": 165
+		},
+		{
+			"start_date": "2021-07-01",
+			"count": 262
+		},
+		{
+			"start_date": "2021-08-01",
+			"count": 393
+		},
+		{
+			"start_date": "2021-09-01",
+			"count": 482
+		},
+		{
+			"start_date": "2021-10-01",
+			"count": 527
+		},
+		{
+			"start_date": "2021-11-01",
+			"count": 1064
+		},
+		{
+			"start_date": "2021-12-01",
+			"count": 907
+		},
+		{
+			"start_date": "2022-01-01",
+			"count": 1094
+		},
+		{
+			"start_date": "2022-02-01",
+			"count": 893
+		},
+		{
+			"start_date": "2022-03-01",
+			"count": 422
+		},
+		{
+			"start_date": "2022-04-01",
+			"count": 656
+		},
+		{
+			"start_date": "2022-05-01",
+			"count": 883
+		},
+		{
+			"start_date": "2022-06-01",
+			"count": 572
+		}
+	],
+	"page": {
+		"html": "<div class='bbcode bbcode--profile-page'><span class=\"proportional-container js-gallery\" style=\"width:2000px;\" data-width=\"2000\" data-height=\"1247\" data-index=\"0\" data-gallery-id=\"1012135915\" data-src=\"https:\/\/i.ppy.sh\/634b3dbcf57aae6c36087fb03c84f21bb1415a7c\/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62342f38332f31612f62343833316139363537353466636232356164306636323035333931373161652e6a7067\"><span class=\"proportional-container__height\" style=\"padding-bottom:62.35%;\"><img class=\"proportional-container__content\" src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\" data-normal=\"https:\/\/i.ppy.sh\/634b3dbcf57aae6c36087fb03c84f21bb1415a7c\/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62342f38332f31612f62343833316139363537353466636232356164306636323035333931373161652e6a7067\" alt=\"\" \/><\/span><\/span><br \/><br \/><h2>Equipment<\/h2><ol class=\"unordered\"><li><strong>Mouse<\/strong>:    Razer DeathHadder V2<br \/><\/li><li><strong>Tablet<\/strong>:   Gaomon S620<br \/><\/li><\/ol><h2>Social<\/h2><ol class=\"unordered\"><li><strong>Youtube Channel<\/strong>: <a rel=\"nofollow\" href=\"https:\/\/www.youtube.com\/channel\/UCVnLbNHB1TRmsNMDCAy-zmg\">yHuesos_<\/a><br \/><\/li><li><strong>Discord<\/strong>:         Huesos#0074<br \/><\/li><li><strong>Instagram<\/strong>:       <a rel=\"nofollow\" href=\"https:\/\/www.instagram.com\/yhuesos_\/\">@yhuesos_<\/a><br \/><\/li><\/ol><br \/><br \/>~ <strong>Last Edition<\/strong>: May 28, 2022<\/div>",
+		"raw": "[img]https:\/\/i.pinimg.com\/originals\/b4\/83\/1a\/b4831a965754fcb25ad0f620539171ae.jpg[\/img]\n\n[heading]Equipment[\/heading]\n[list]\n[*][b]Mouse[\/b]:    Razer DeathHadder V2\n[*][b]Tablet[\/b]:   Gaomon S620\n[\/list]\n\n\n\n[heading]Social[\/heading]\n[list]\n[*][b]Youtube Channel[\/b]: [url=https:\/\/www.youtube.com\/channel\/UCVnLbNHB1TRmsNMDCAy-zmg]yHuesos_[\/url]\n[*][b]Discord[\/b]:         Huesos#0074\n[*][b]Instagram[\/b]:       [url=https:\/\/www.instagram.com\/yhuesos_\/]@yhuesos_[\/url]\n[\/list]\n\n~ [b]Last Edition[\/b]: May 28, 2022"
+	},
+	"pending_beatmapset_count": 0,
+	"previous_usernames": [
+		"Horuhessz"
+	],
+	"ranked_beatmapset_count": 0,
+	"replays_watched_counts": [
+		{
+			"start_date": "2020-03-01",
+			"count": 2
+		},
+		{
+			"start_date": "2020-07-01",
+			"count": 2
+		},
+		{
+			"start_date": "2020-12-01",
+			"count": 1
+		},
+		{
+			"start_date": "2021-01-01",
+			"count": 1
+		},
+		{
+			"start_date": "2021-11-01",
+			"count": 3
+		},
+		{
+			"start_date": "2022-03-01",
+			"count": 1
+		},
+		{
+			"start_date": "2022-04-01",
+			"count": 1
+		},
+		{
+			"start_date": "2022-05-01",
+			"count": 1
+		},
+		{
+			"start_date": "2022-06-01",
+			"count": 1
+		}
+	],
+	"scores_best_count": 100,
+	"scores_first_count": 0,
+	"scores_pinned_count": 0,
+	"scores_recent_count": 8,
+	"statistics": {
+		"level": {
+			"current": 100,
+			"progress": 26
+		},
+		"global_rank": 60483,
+		"pp": 4877.12,
+		"ranked_score": 11727387948,
+		"hit_accuracy": 99.2584,
+		"play_count": 55861,
+		"play_time": 2841322,
+		"total_score": 53271404456,
+		"total_hits": 9089274,
+		"maximum_combo": 2354,
+		"replays_watched_by_others": 13,
+		"is_ranked": true,
+		"grade_counts": {
+			"ss": 2113,
+			"ssh": 75,
+			"s": 804,
+			"sh": 54,
+			"a": 725
+		},
+		"country_rank": 330,
+		"rank": {
+			"country": 330
+		}
+	},
+	"support_level": 0,
+	"user_achievements": [
+		{
+			"achieved_at": "2022-06-12T13:13:54+00:00",
+			"achievement_id": 259
+		},
+		{
+			"achieved_at": "2022-05-23T19:03:34+00:00",
+			"achievement_id": 239
+		},
+		{
+			"achieved_at": "2022-05-23T18:31:34+00:00",
+			"achievement_id": 179
+		},
+		{
+			"achieved_at": "2022-05-17T22:23:46+00:00",
+			"achievement_id": 272
+		},
+		{
+			"achieved_at": "2021-11-24T20:21:53+00:00",
+			"achievement_id": 185
+		},
+		{
+			"achieved_at": "2021-11-24T19:59:56+00:00",
+			"achievement_id": 35
+		},
+		{
+			"achieved_at": "2021-11-24T19:56:45+00:00",
+			"achievement_id": 26
+		},
+		{
+			"achieved_at": "2021-11-24T19:46:50+00:00",
+			"achievement_id": 143
+		},
+		{
+			"achieved_at": "2021-11-24T19:40:27+00:00",
+			"achievement_id": 142
+		},
+		{
+			"achieved_at": "2021-11-24T19:33:41+00:00",
+			"achievement_id": 141
+		},
+		{
+			"achieved_at": "2021-11-24T19:21:29+00:00",
+			"achievement_id": 140
+		},
+		{
+			"achieved_at": "2021-11-24T19:18:57+00:00",
+			"achievement_id": 139
+		},
+		{
+			"achieved_at": "2021-11-24T19:17:07+00:00",
+			"achievement_id": 136
+		},
+		{
+			"achieved_at": "2021-11-24T19:13:27+00:00",
+			"achievement_id": 135
+		},
+		{
+			"achieved_at": "2021-11-24T19:07:31+00:00",
+			"achievement_id": 134
+		},
+		{
+			"achieved_at": "2021-11-24T18:41:42+00:00",
+			"achievement_id": 41
+		},
+		{
+			"achieved_at": "2021-11-24T18:35:35+00:00",
+			"achievement_id": 38
+		},
+		{
+			"achieved_at": "2021-11-24T18:25:40+00:00",
+			"achievement_id": 17
+		},
+		{
+			"achieved_at": "2021-11-18T20:10:41+00:00",
+			"achievement_id": 28
+		},
+		{
+			"achieved_at": "2021-01-28T20:33:25+00:00",
+			"achievement_id": 50
+		},
+		{
+			"achieved_at": "2020-12-21T17:25:48+00:00",
+			"achievement_id": 222
+		},
+		{
+			"achieved_at": "2020-10-29T16:35:40+00:00",
+			"achievement_id": 16
+		},
+		{
+			"achieved_at": "2020-10-14T22:15:51+00:00",
+			"achievement_id": 68
+		},
+		{
+			"achieved_at": "2020-09-06T20:21:40+00:00",
+			"achievement_id": 19
+		},
+		{
+			"achieved_at": "2020-09-06T19:35:18+00:00",
+			"achievement_id": 27
+		},
+		{
+			"achieved_at": "2020-09-06T19:15:19+00:00",
+			"achievement_id": 36
+		},
+		{
+			"achieved_at": "2020-07-18T14:20:22+00:00",
+			"achievement_id": 6
+		},
+		{
+			"achieved_at": "2020-07-12T16:33:21+00:00",
+			"achievement_id": 46
+		},
+		{
+			"achieved_at": "2020-06-11T16:03:26+00:00",
+			"achievement_id": 88
+		},
+		{
+			"achieved_at": "2020-04-30T18:53:50+00:00",
+			"achievement_id": 61
+		},
+		{
+			"achieved_at": "2020-04-27T21:26:11+00:00",
+			"achievement_id": 39
+		},
+		{
+			"achieved_at": "2020-04-09T17:55:50+00:00",
+			"achievement_id": 5
+		},
+		{
+			"achieved_at": "2020-02-26T09:41:39+00:00",
+			"achievement_id": 96
+		},
+		{
+			"achieved_at": "2020-02-02T00:14:32+00:00",
+			"achievement_id": 72
+		},
+		{
+			"achieved_at": "2019-12-15T13:49:04+00:00",
+			"achievement_id": 67
+		},
+		{
+			"achieved_at": "2019-12-09T22:09:38+00:00",
+			"achievement_id": 160
+		},
+		{
+			"achieved_at": "2019-12-07T20:42:23+00:00",
+			"achievement_id": 60
+		},
+		{
+			"achieved_at": "2019-09-05T15:25:19+00:00",
+			"achievement_id": 42
+		},
+		{
+			"achieved_at": "2019-08-16T14:42:19+00:00",
+			"achievement_id": 22
+		},
+		{
+			"achieved_at": "2019-08-13T15:36:41+00:00",
+			"achievement_id": 34
+		},
+		{
+			"achieved_at": "2019-08-13T15:12:48+00:00",
+			"achievement_id": 25
+		},
+		{
+			"achieved_at": "2019-08-13T14:52:38+00:00",
+			"achievement_id": 37
+		},
+		{
+			"achieved_at": "2019-07-20T14:33:40+00:00",
+			"achievement_id": 152
+		},
+		{
+			"achieved_at": "2019-07-20T14:29:54+00:00",
+			"achievement_id": 123
+		},
+		{
+			"achieved_at": "2019-07-20T14:28:53+00:00",
+			"achievement_id": 131
+		},
+		{
+			"achieved_at": "2019-07-20T14:26:36+00:00",
+			"achievement_id": 128
+		},
+		{
+			"achieved_at": "2019-07-20T14:12:27+00:00",
+			"achievement_id": 126
+		},
+		{
+			"achieved_at": "2019-07-20T14:08:48+00:00",
+			"achievement_id": 138
+		},
+		{
+			"achieved_at": "2019-07-20T14:08:48+00:00",
+			"achievement_id": 127
+		},
+		{
+			"achieved_at": "2019-07-09T16:12:43+00:00",
+			"achievement_id": 18
+		},
+		{
+			"achieved_at": "2019-07-09T15:55:35+00:00",
+			"achievement_id": 14
+		},
+		{
+			"achieved_at": "2019-07-09T15:39:46+00:00",
+			"achievement_id": 12
+		},
+		{
+			"achieved_at": "2019-07-09T15:35:41+00:00",
+			"achievement_id": 11
+		},
+		{
+			"achieved_at": "2019-07-09T15:21:52+00:00",
+			"achievement_id": 8
+		},
+		{
+			"achieved_at": "2019-06-06T20:35:31+00:00",
+			"achievement_id": 66
+		},
+		{
+			"achieved_at": "2019-05-17T18:49:01+00:00",
+			"achievement_id": 125
+		},
+		{
+			"achieved_at": "2019-05-15T15:50:41+00:00",
+			"achievement_id": 43
+		},
+		{
+			"achieved_at": "2019-05-08T17:48:12+00:00",
+			"achievement_id": 59
+		},
+		{
+			"achieved_at": "2019-04-30T20:39:41+00:00",
+			"achievement_id": 21
+		},
+		{
+			"achieved_at": "2019-04-19T17:05:40+00:00",
+			"achievement_id": 124
+		},
+		{
+			"achieved_at": "2019-04-17T21:02:55+00:00",
+			"achievement_id": 132
+		},
+		{
+			"achieved_at": "2019-04-11T14:49:03+00:00",
+			"achievement_id": 121
+		},
+		{
+			"achieved_at": "2019-04-02T18:48:01+00:00",
+			"achievement_id": 4
+		},
+		{
+			"achieved_at": "2019-03-17T19:41:55+00:00",
+			"achievement_id": 122
+		},
+		{
+			"achieved_at": "2019-03-16T20:39:58+00:00",
+			"achievement_id": 111
+		},
+		{
+			"achieved_at": "2019-03-16T20:39:58+00:00",
+			"achievement_id": 54
+		},
+		{
+			"achieved_at": "2019-03-16T20:38:17+00:00",
+			"achievement_id": 87
+		},
+		{
+			"achieved_at": "2019-03-16T19:57:50+00:00",
+			"achievement_id": 40
+		},
+		{
+			"achieved_at": "2019-03-16T19:34:47+00:00",
+			"achievement_id": 7
+		},
+		{
+			"achieved_at": "2019-03-16T19:17:46+00:00",
+			"achievement_id": 9
+		},
+		{
+			"achieved_at": "2019-03-07T16:57:51+00:00",
+			"achievement_id": 58
+		},
+		{
+			"achieved_at": "2019-02-26T15:17:39+00:00",
+			"achievement_id": 119
+		},
+		{
+			"achieved_at": "2019-02-26T15:17:39+00:00",
+			"achievement_id": 65
+		},
+		{
+			"achieved_at": "2019-02-23T23:24:36+00:00",
+			"achievement_id": 57
+		},
+		{
+			"achieved_at": "2019-01-01T13:23:00+00:00",
+			"achievement_id": 3
+		},
+		{
+			"achieved_at": "2018-12-13T18:56:18+00:00",
+			"achievement_id": 10
+		},
+		{
+			"achieved_at": "2018-11-28T21:54:04+00:00",
+			"achievement_id": 20
+		},
+		{
+			"achieved_at": "2018-11-26T14:44:57+00:00",
+			"achievement_id": 175
+		},
+		{
+			"achieved_at": "2018-11-24T15:31:35+00:00",
+			"achievement_id": 137
+		},
+		{
+			"achieved_at": "2018-11-17T23:54:53+00:00",
+			"achievement_id": 148
+		},
+		{
+			"achieved_at": "2018-08-19T13:27:46+00:00",
+			"achievement_id": 64
+		},
+		{
+			"achieved_at": "2018-08-19T13:27:46+00:00",
+			"achievement_id": 56
+		},
+		{
+			"achieved_at": "2018-07-11T07:30:47+00:00",
+			"achievement_id": 95
+		},
+		{
+			"achieved_at": "2018-07-11T07:28:55+00:00",
+			"achievement_id": 176
+		},
+		{
+			"achieved_at": "2018-07-11T07:26:15+00:00",
+			"achievement_id": 71
+		},
+		{
+			"achieved_at": "2018-07-06T20:59:41+00:00",
+			"achievement_id": 1
+		},
+		{
+			"achieved_at": "2018-07-06T13:41:27+00:00",
+			"achievement_id": 103
+		},
+		{
+			"achieved_at": "2018-07-06T13:41:27+00:00",
+			"achievement_id": 79
+		},
+		{
+			"achieved_at": "2018-07-05T20:16:16+00:00",
+			"achievement_id": 15
+		},
+		{
+			"achieved_at": "2018-07-05T20:08:27+00:00",
+			"achievement_id": 120
+		},
+		{
+			"achieved_at": "2018-07-05T20:01:41+00:00",
+			"achievement_id": 63
+		},
+		{
+			"achieved_at": "2018-07-05T20:01:41+00:00",
+			"achievement_id": 55
+		}
+	],
+	"rankHistory": {
+		"mode": "osu",
+		"data": [
+			61453,
+			61509,
+			61561,
+			61611,
+			61671,
+			61709,
+			61781,
+			61841,
+			61897,
+			61978,
+			62023,
+			62043,
+			61720,
+			61786,
+			61853,
+			61932,
+			61999,
+			62065,
+			62137,
+			62190,
+			62256,
+			61904,
+			61957,
+			62009,
+			62052,
+			62111,
+			62173,
+			62224,
+			61990,
+			62050,
+			62112,
+			62170,
+			62222,
+			62255,
+			62313,
+			62342,
+			62394,
+			62424,
+			62467,
+			62512,
+			62564,
+			62622,
+			62686,
+			62739,
+			62791,
+			62851,
+			62909,
+			62959,
+			63010,
+			63074,
+			62624,
+			62665,
+			62707,
+			62761,
+			62803,
+			62859,
+			62922,
+			62982,
+			63023,
+			63078,
+			61372,
+			61425,
+			61416,
+			59224,
+			59270,
+			59316,
+			59362,
+			59414,
+			59462,
+			59502,
+			59553,
+			59602,
+			59650,
+			59664,
+			59711,
+			59777,
+			59852,
+			59906,
+			59967,
+			60015,
+			60081,
+			60142,
+			60183,
+			60210,
+			60263,
+			60322,
+			60356,
+			60397,
+			60434,
+			60483
+		]
+	},
+	"rank_history": {
+		"mode": "osu",
+		"data": [
+			61453,
+			61509,
+			61561,
+			61611,
+			61671,
+			61709,
+			61781,
+			61841,
+			61897,
+			61978,
+			62023,
+			62043,
+			61720,
+			61786,
+			61853,
+			61932,
+			61999,
+			62065,
+			62137,
+			62190,
+			62256,
+			61904,
+			61957,
+			62009,
+			62052,
+			62111,
+			62173,
+			62224,
+			61990,
+			62050,
+			62112,
+			62170,
+			62222,
+			62255,
+			62313,
+			62342,
+			62394,
+			62424,
+			62467,
+			62512,
+			62564,
+			62622,
+			62686,
+			62739,
+			62791,
+			62851,
+			62909,
+			62959,
+			63010,
+			63074,
+			62624,
+			62665,
+			62707,
+			62761,
+			62803,
+			62859,
+			62922,
+			62982,
+			63023,
+			63078,
+			61372,
+			61425,
+			61416,
+			59224,
+			59270,
+			59316,
+			59362,
+			59414,
+			59462,
+			59502,
+			59553,
+			59602,
+			59650,
+			59664,
+			59711,
+			59777,
+			59852,
+			59906,
+			59967,
+			60015,
+			60081,
+			60142,
+			60183,
+			60210,
+			60263,
+			60322,
+			60356,
+			60397,
+			60434,
+			60483
+		]
+	},
+	"ranked_and_approved_beatmapset_count": 0,
+	"unranked_beatmapset_count": 0
+}
